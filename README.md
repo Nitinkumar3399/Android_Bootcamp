@@ -9,3 +9,9 @@ This repository provides you Awesome Android Machine Learning Projects with Gith
 * [project-2](https://heartbeat.comet.ml/implementing-ml-kits-smart-reply-api-in-an-android-app-d031183764b7)
 * [Project-3](https://heartbeat.comet.ml/creating-an-offline-translation-android-app-using-firebase-ml-kit-d7d0fc5d8813)
 
+----
+Youtube Videos :  
+* [Neat roots android tutorials](https://www.youtube.com/watch?v=OcT22kdNFvA)
+* [Firebase Neat roots](https://www.youtube.com/watch?v=b1bGrWrx5Mo)
+* [NetNinja firebase 10 videos Playlist](https://www.youtube.com/watch?v=4d-gIPGzmK4&list=PL4cUxeGkcC9itfjle0ji1xOZ2cjRGY_WB&index=1)
+
