@@ -15,3 +15,7 @@ Youtube Videos :
 * [Firebase Neat roots](https://www.youtube.com/watch?v=b1bGrWrx5Mo)
 * [NetNinja firebase 10 videos Playlist](https://www.youtube.com/watch?v=4d-gIPGzmK4&list=PL4cUxeGkcC9itfjle0ji1xOZ2cjRGY_WB&index=1)
 
+----
+Github repos for chat apps :
+* https://github.com/TheHasnatBD/uMe
+* https://github.com/topics/chatting-app
