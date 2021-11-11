@@ -22,3 +22,4 @@ Github repos for chat apps :
 ----
 * KHATARNAK Error resolved by the addition of single dependency suggested in [this video](https://www.youtube.com/watch?v=sxDaWrs4RUE)  
 * Cannot find symbol class **FirebaseInstanceId**  
+* [StackOverflow error Resolved FireBaseMessaging](https://stackoverflow.com/questions/51123197/firebaseinstanceidservice-is-deprecated)
