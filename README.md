@@ -19,3 +19,6 @@ Youtube Videos :
 Github repos for chat apps :
 * https://github.com/TheHasnatBD/uMe
 * https://github.com/topics/chatting-app
+----
+* KHATARNAK Error resolved by the addition of single dependency suggested in [this video](https://www.youtube.com/watch?v=sxDaWrs4RUE)  
+* Cannot find symbol class **FirebaseInstanceId**  
